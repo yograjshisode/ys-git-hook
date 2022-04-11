@@ -1,0 +1,6 @@
+-   id: test-ys-cli
+    name: Test YS CLI
+    description: This hook will test CLI
+    entry: ys-cli --hello_world Yograj
+    language: python
+    language_version: "3.8"
